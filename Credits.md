@@ -1,13 +1,13 @@
-zookeper.conf: https://gist.github.com/bcambel/5180e44311973825de5c
-odoo.conf: https://gist.github.com/primecv/02686b3d8a0567677fa1
-beanstalkd.conf: https://gist.github.com/seyhunak/ba489c6bd474a351bfea
-django_app.template.conf: https://gist.github.com/nsteinmetz/9123274
-mediagoblin.conf: https://gist.github.com/joar/6236040
-mediagoblin-celery.conf: https://gist.github.com/joar/6236040
-znc.conf: https://gist.github.com/jefftriplett/1076904
-java_app.template.conf: https://gist.github.com/scottcagno/ea532dc9040c6990778c
-graphite.conf: https://gist.github.com/bhang/3004142
-pypi-server.template.conf: https://gist.github.com/skryv/4709358
-sidekiq.conf: https://gist.github.com/seyhunak/417bff4cd84e0f8469c2
-gunicorn_app.template.conf: https://gist.github.com/jexhson/3285870
-redis: https://gist.github.com/eka/5720977
+* zookeper.conf: https://gist.github.com/bcambel/5180e44311973825de5c
+* odoo.conf: https://gist.github.com/primecv/02686b3d8a0567677fa1
+* beanstalkd.conf: https://gist.github.com/seyhunak/ba489c6bd474a351bfea
+* django_app.template.conf: https://gist.github.com/nsteinmetz/9123274
+* mediagoblin.conf: https://gist.github.com/joar/6236040
+* mediagoblin-celery.conf: https://gist.github.com/joar/6236040
+* znc.conf: https://gist.github.com/jefftriplett/1076904
+* java_app.template.conf: https://gist.github.com/scottcagno/ea532dc9040c6990778c
+* graphite.conf: https://gist.github.com/bhang/3004142
+* pypi-server.template.conf: https://gist.github.com/skryv/4709358
+* sidekiq.conf: https://gist.github.com/seyhunak/417bff4cd84e0f8469c2
+* gunicorn_app.template.conf: https://gist.github.com/jexhson/3285870
+* redis: https://gist.github.com/eka/5720977
